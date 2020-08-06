@@ -42,6 +42,7 @@ class CliParamsParser
 
 
 // params, left side
+        // trims every element by a character in another array passed as a 3rd parameter with pregenerated ' ' values
         $params = array_map('trim', $matches[1], array_fill(0,count($matches[1]),' '));
 
 
