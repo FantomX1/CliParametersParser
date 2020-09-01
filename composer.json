@@ -1,6 +1,7 @@
 {
     "name": "fantomx1/cli-parameters-parser",
     "type": "library",
+    "version": "999",
     "authors": [
         {
             "name": "frantisek.hallo",
